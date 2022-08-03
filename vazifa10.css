@@ -1,0 +1,16 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+@media screen and (max-width:300px){
+       .container .row .header .hright ul{
+       	margin:center;
+       }	
+
+
+	.container .row .header .hright ul li{
+	float:none;
+
+	}
+}
